@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Research, and Analytics
 - 🌱 I’m currently learning R, Python, Tableau, and SQL
 - 💞️ I’m looking to collaborate on more data projects the delves in economic analysis
-- 📫 How to reach me: gwynicoleam@gmail.com or thru[LinkedIn](https://www.linkedin.com/in/gwyneth-nicole-mendoza-a77532238/).
+- 📫 How to reach me: gwynicoleam@gmail.com or thru [LinkedIn](https://www.linkedin.com/in/gwyneth-nicole-mendoza-a77532238/)
 - 😄 Pronouns: she/her
 - ⚡ Hobbies: running, soccer, playing fps games like Valorant
 
